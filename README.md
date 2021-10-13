@@ -40,5 +40,4 @@ Add your own domain name and have it point to the running services (try adding a
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 
 ### Comment
-The public jpg picture is "http://wx2.sinaimg.cn/mw690/ac38503ely1fesz8m0ov6j20qo140dix.jpg"
 The elstic beanstalk URL is "http://Nicholas-env-1.eba-3kt2pnq4.us-east-1.elasticbeanstalk.com/"
