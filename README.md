@@ -41,4 +41,4 @@ Add your own domain name and have it point to the running services (try adding a
 
 ### Comment
 The public jpg picture is "http://wx2.sinaimg.cn/mw690/ac38503ely1fesz8m0ov6j20qo140dix.jpg"
-The elstic beanstalk URL is  [EB_URL]
+The elstic beanstalk URL is "http://image-filtering-microservice-on-aws-dev.us-east-1.elasticbeanstalk.com/filteredimage?"
